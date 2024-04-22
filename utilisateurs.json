@@ -1,0 +1,22 @@
+[
+    {
+        "identifiant": "Toto",
+        "mdp": "test",
+        "pseudo": "Toto"
+    },
+    {
+        "identifiant": "Toto2",
+        "mdp": "test",
+        "pseudo": "Jojo"
+    },
+    {
+        "identifiant": "Toto3",
+        "mdp": "test",
+        "pseudo": "Zozo"
+    },
+    {
+        "identifiant": "Toto4",
+        "mdp": "test",
+        "pseudo": "Dodo"
+    }
+]
