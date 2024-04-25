@@ -7,7 +7,7 @@ function recupererTousLesUtilisateurs(string $fichier) {
 }
 
 function trouverUtilisateurGraceAIdentifiantEtMdp(string $identifiant, string $mdp) {
-    $utilisateurs = recupererTousLesUtilisateurs('utilisateurs.json'); // array (= tableau d'utilisateurs)
+    $utilisateurs = recupererTousLesUtilisateurs('utilisateurs.json'); 
 
     foreach ($utilisateurs as $u) {
         if (
